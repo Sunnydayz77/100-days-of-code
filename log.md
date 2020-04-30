@@ -30,7 +30,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
 
-### Day 1: April 27th, 2020
+### Day 1: April 26th, 2020
 
 **Today's Progress**: 
 
@@ -38,7 +38,7 @@
 
 **Link to work:** 
 
-### Day 1: April 28th, 2020
+### Day 2: April 27th, 2020
 
 **Today's Progress**: 
 
@@ -46,7 +46,15 @@
 
 **Link to work:** 
 
-### Day 1: April 29th, 2020
+### Day 3: April 28th, 2020
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 4: April 29th, 2020
 
 **Today's Progress**: 
 
